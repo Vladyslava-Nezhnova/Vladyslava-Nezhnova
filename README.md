@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nezhnovavl
+- 👋 Hi, I’m @Vladyslava-Nezhnova
 -  Pronouns: She/Her.
 -  Interested in automation testing.
 -  Currently learning Appium to enhance my automation skills.
