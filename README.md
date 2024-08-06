@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vladyslava-Nezhnova
 -  Pronouns: She/Her.
 -  Interested in automation testing.
--  Currently learning Appium to enhance my automation skills.
 -  I’m looking to collaborate on open-source projects focused on developing testing tools and frameworks.
 - 📫 How to reach me: You can contact me via email at vldnezhnova@gmail.com.
 - ☘️ Fun fact: Sometimes I catch myself not only testing projects but also applying testing scenarios to everyday life situations.
